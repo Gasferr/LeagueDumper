@@ -1,0 +1,13 @@
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\close_watcher.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\close_watcher.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\dump_process.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\dump_process.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\export_list.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\export_list.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\hash.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\hash.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\module_list.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\module_list.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\pd.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\pd.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\pe_exports.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\pe_exports.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\pe_hash_database.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\pe_hash_database.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\pe_header.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\pe_header.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\pe_imports.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\pe_imports.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\simple.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\simple.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\stdafx.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\stdafx.obj
+C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\terminate_monitor_hook.cpp;C:\Users\Gaston\Downloads\LeagueDumper-master\LeagueDumper-master\pd\x64\Release\terminate_monitor_hook.obj
